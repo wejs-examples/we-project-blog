@@ -1,6 +1,6 @@
-#We.js we-project-blog-blogger project
+# We.js we-project-blog-blogger project
 
-> [write something about yout project here]
+> Blog generated in the creating one we.js blog screencast: https://youtu.be/-xVNL7SY8oI 
 
 **Build With:**
 
